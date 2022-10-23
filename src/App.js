@@ -34,7 +34,7 @@ function App() {
           </svg>
 
           <button className="btn" onClick={getData}>
-            Need Adivce?
+            Get Advice
           </button>
         </div>
       </div>
